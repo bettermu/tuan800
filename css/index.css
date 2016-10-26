@@ -1473,6 +1473,7 @@
     position:fixed;
     top:190px;
     left:135px;
+    z-index:2000;
 }
 #jump_box a {
     display:block;
